@@ -24,7 +24,7 @@ Follow these steps to set up the project:
 1.  **Clone the Repository:** Use the following command to create a local copy of the project on your computer:
 
 ```
-git clone https://github.com/ContractorBlock/smart-contract-lottery.git
+git clone https://github.com/ContractorBlock/foundry-smart-contract-lottery.git
 
 ```
 
